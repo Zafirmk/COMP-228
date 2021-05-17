@@ -16,3 +16,11 @@ Project Solution
     <td><strong>Professor</strong></td><td><a href="https://www.concordia.ca/ginacody/computer-science-software-eng/faculty.html?fpid=hassan-hajjdiab">Hassan Hajjdiab</a></td>
   </tr>
 </table>
+
+## TLDR
+Generating 3 types of waves (variable frequency) using assembly code on a AT89C51 (8051) Microcontroller
+<ul>
+  <li>Square Wave</li>
+  <li>Sawtooth Wave</li>
+  <li>Triangular Wave</li>
+</ul>
